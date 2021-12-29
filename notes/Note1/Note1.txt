@@ -1,5 +1,8 @@
-1 - Implementando o nosso player
+1 - Implementando o nosso player - Feito
 	1.1 - Importando a sprite do player - Feito
 	1.2 - Implementando o objeto player e adicionando seu sprite - Feito
 
-2 - Ajustando as dimensões da room e ajustando a view e viewport da room
+2 - Ajustando as dimensões da room e ajustando a view e viewport da room - Feito
+	2.1 - Criando uma viewport e camera para o jogo - Feito
+	2.2 - Ajustando as dimensões para a view ser grande e o viewport menor - Feito
+	
